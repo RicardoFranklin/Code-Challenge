@@ -32,4 +32,10 @@ npm test
 
 ```
 
+![TestCafe Begin](firstCommand.png)
+---
+![TestCafe Begin 2](secondCommand.png)
+---
+![TestCafe End](End.png)
+
 
