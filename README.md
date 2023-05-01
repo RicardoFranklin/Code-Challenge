@@ -13,8 +13,7 @@ mvn clean test -Pexecution
 ```
 
 ![Java Begin](rJNji9iddL.png)
-[Java End](mintty_ZmRATxWuTt.png)
-
+![Java End](mintty_ZmRATxWuTt.png)
 
 
 ## TestCafe Solution
