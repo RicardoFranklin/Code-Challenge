@@ -1,0 +1,11 @@
+{
+  "name": "Test Cafe Challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome TestCafeChallenge.js"
+  },
+  "author": "Ricardo Cordeiro",
+  "license": "ISC"
+}
