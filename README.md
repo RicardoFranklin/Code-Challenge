@@ -12,6 +12,11 @@ mvn clean test -Pexecution
 
 ```
 
+[Java Begin](rJNji9iddL.png)
+[Java End](mintty_ZmRATxWuTt.png)
+
+
+
 ## TestCafe Solution
 
 To Run the TestCafe version, please execute one of the folling commands:
