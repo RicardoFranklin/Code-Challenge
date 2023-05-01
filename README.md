@@ -1,4 +1,4 @@
-# Adrian-Code-Challenge
+# Code-Challenge
 
 ---
 
