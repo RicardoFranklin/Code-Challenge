@@ -22,7 +22,7 @@ To Run the TestCafe version, please execute one of the folling commands:
 
 ``` js
 
-testcafe chrome <Jsfile>    
+testcafe chrome TestCafeChallenge.js
 
 ```
 
