@@ -12,7 +12,7 @@ mvn clean test -Pexecution
 
 ```
 
-[Java Begin](rJNji9iddL.png)
+![Java Begin](rJNji9iddL.png)
 [Java End](mintty_ZmRATxWuTt.png)
 
 
